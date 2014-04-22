@@ -2,7 +2,8 @@
   "name": "whatday",
   "version": "0.0.0",
   "dependencies": {
-    "momentjs": "~2.6.0"
+    "momentjs": "~2.6.0",
+    "jquery": "~2.1.0"
   },
   "devDependencies": {}
 }
