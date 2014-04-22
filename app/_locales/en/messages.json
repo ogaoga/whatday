@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "whatday",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "Show what day it is today.",
+    "description": "The description of the application"
+  }
+}
